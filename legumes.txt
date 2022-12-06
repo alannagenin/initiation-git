@@ -1,3 +1,4 @@
 courgette
 aubergine
 mâche
+carotte
