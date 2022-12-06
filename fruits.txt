@@ -3,3 +3,8 @@ kiwi
 cerise
 banane
 groseille
+fraise
+framboise
+papaye
+goyave
+raisin
